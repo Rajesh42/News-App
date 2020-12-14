@@ -18,9 +18,6 @@
 - It allows you to control absolutely everything in the app using your voice.
 - Another huge benefit is that it's extremely easy to integrate it
 
-### Wire frame:
-<img src="https://user-images.githubusercontent.com/64878501/102041013-58704780-3df4-11eb-9e2e-7399f7d86b13.PNG" width="100%">
-
 ### Function
 
 - Using Voice Assistant to choose type of news:
@@ -39,8 +36,8 @@
 - API news: https://newsapi.org/
 
 ### Screenshot
+<img src="https://user-images.githubusercontent.com/64878501/102041013-58704780-3df4-11eb-9e2e-7399f7d86b13.PNG" width="100%">
 
-<img src="https://media.giphy.com/media/kHxwr6ohazm1FQwyuX/giphy.gif" />
 
 ### After this project
 
